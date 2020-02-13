@@ -3,7 +3,7 @@ source code of GLISTA
 
 # Sparse Coding with Gated Learned ISTA
 This repository contains an implementation of the simulation experiments in Sparse Coding with Gated Learned ISTA. The code base is based from
-the LISTA-CPSS repo (https://github.com/xchen-tamu/linear-lista-cpss).
+the LISTA-CPSS repo (https://github.com/xchen-tamu/linear-lista-cpss). You should add this file into the "model" in LISTA-CPSS repo
 
 # Dependencies
 * [tensorflow](https://www.tensorflow.org/)
