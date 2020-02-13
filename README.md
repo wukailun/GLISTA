@@ -23,7 +23,9 @@ python main.py --net GLISTA_cp \
 			   -u \
 			   -a 5.0 \
 			   -uf combine
+```
 For GLISTA with an inverse overshoot gate functions under SNR = 40dB, run:
+
 
 ```bash
 python main.py --net GLISTA \ 
